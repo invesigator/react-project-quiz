@@ -40,3 +40,12 @@ And more modular components
 3. Track your progress through the progress bar
 4. See your final score and highscore at the end
 5. Option to restart and try to beat your highest score
+
+## Screenshots
+<img width="1919" height="861" alt="image" src="https://github.com/user-attachments/assets/22333be4-c47b-40ce-acf4-c11bef08daa5" />
+
+<img width="1919" height="855" alt="image" src="https://github.com/user-attachments/assets/d7037413-b7cf-4a68-abed-117fc67e332c" />
+
+<img width="1919" height="858" alt="image" src="https://github.com/user-attachments/assets/2f6eceaf-3940-4596-8f5b-2804f6ec70a2" />
+
+
